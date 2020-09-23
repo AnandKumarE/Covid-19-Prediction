@@ -1,2 +1,2 @@
 # Covid-19-Prediction
-predicting the daily outcomes of covid 
+Data Analysis and prediction of covid data using Facebook's prophet model.
